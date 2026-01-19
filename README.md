@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, I'm Taras!
 
-<!--
-**MoonSsugar/MoonSsugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer based in Czech Republic. I love building complex logic and clean UI.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Next.js E-commerce platforms**
+- 🌱 I’m currently learning **Next.js (App Router) & Server Side Rendering**
+- ⚡ Focusing on **Performance Optimization & Advanced TypeScript**
+- 💬 Ask me about **React Flow, Redux Toolkit, Zustand**
+- 📫 How to reach me: **hirnyjt@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools:
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-090909?style=for-the-badge&logo=tailwindcss)
+
+### 📊 Github Stats:
+![Taras's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonSsugar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSsugar&layout=compact&theme=radical)
