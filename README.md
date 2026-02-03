@@ -2,8 +2,8 @@
 
 Frontend Developer based in Czech Republic. I love building complex logic and clean UI.
 
-- 🔭 I’m currently working on **Next.js E-commerce platforms**
-- 🌱 I’m currently learning **Next.js (App Router) & Server Side Rendering**
+- 🌱 Currently deep-diving into: Advanced Server Actions & Micro-frontends (або щось реально складне). 
+- 🔭 I’m currently building: Next.js 15 E-commerce platforms with complex State Management
 - ⚡ Focusing on **Performance Optimization & Advanced TypeScript**
 - 💬 Ask me about **React Flow, Redux Toolkit, Zustand**
 - 📫 How to reach me: **hirnyjt@gmail.com**
